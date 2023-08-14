@@ -18,7 +18,7 @@ Filter and explore based on country, region, time period and so on.
 
 ## How to Use the Notebook:
 - Clone the Repository:
-  Clone this repository to your local machine using git clone [https://github.com/your_username/repo_name.git](https://github.com/iabhiroop/Global-CO2-Emissions-Analysis-and-Visualization-with-Tableau.git).
+  Clone this repository to your local machine using git clone [https://github.com/iabhiroop/Global-CO2-Emissions-Analysis-and-Visualization-with-Tableau.git](https://github.com/iabhiroop/Global-CO2-Emissions-Analysis-and-Visualization-with-Tableau.git).
 
 - Install Tableau:
   Ensure you have Tableau Desktop installed on your system to open and interact with the visualizations.
